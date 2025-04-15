@@ -16,5 +16,5 @@ Uptime Kuma是一个易于使用的自托管监控工具。
  
 ![](https://chart.yhype.me/github/repository-star/v1/966475184.svg)
  
-###未来鸽划  
+### 未来鸽划  
 - [ ]一键更新
